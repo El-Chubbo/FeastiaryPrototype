@@ -1,0 +1,3 @@
+The universe of Feastiary is largely familiar to our own. While it has its roots in magic and classic fantasy, some modern technology does exist. Magic may be prevalent in many places and people, but it's not easily accessible to the general population and is not part of daily life.
+
+The largest difference in technology is the lack of mass production and global communication. Settlements are fractured and scattered from monster attacks and [[Corruption]]. It's rare for a village to exceed over a thousand people. Traditional computers are extremely rare and rely on salvaged parts, only a few people know how to operate a computer and none have the resources or knowledge to create more. 

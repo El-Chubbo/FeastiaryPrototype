@@ -1,0 +1,1 @@
+Fat is accumulated through most eating actions and digesting calories. It operates like an experience gauge, once a certain amount is obtained the Foodie gains a level and gets stronger. After enough fat levels the player character will reach a "milestone" which updates the sprite to show the character as visually chubbier.

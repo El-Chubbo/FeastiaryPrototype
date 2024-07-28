@@ -1,0 +1,1 @@
+Every unit moves along a tile map grid. Outside of a few rare scenarios, every unit takes up exactly one space in the map. 

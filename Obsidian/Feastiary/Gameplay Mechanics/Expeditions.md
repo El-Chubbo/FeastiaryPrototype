@@ -1,0 +1,3 @@
+This refers to each "run" of the roguelike gameplay. The player character goes out into the world to explore, clear out any food monsters they encounter, grow more powerful, and hunt down boss monsters that are a threat to the area. Should they fail the expedition and be knocked out, [[The Feastiary Grimoire]] has the ability to extract player character and retreat back to a safe area at the cost of starting over.
+
+Nothing has been determined yet for a final boss or other means of ending an expedition.

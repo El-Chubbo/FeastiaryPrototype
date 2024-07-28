@@ -1,0 +1,5 @@
+The generic item drop that all enemies leave behind when not consumed by [[Feasting]]. Visualized as a non-descript pouch on the ground, leftovers are composed of whatever edible bits of monsters that are still good to eat. The more powerful the monster, the larger pouch of leftovers they leave behind. If multiple monsters die on the same tile, the leftovers will stack and the pouch will be visibly larger.
+
+When the player character walks over a tile with leftovers on it, they will instantly eat it and gain calories. Unlike certain actions that will cause the player character to be overstuffed and potentially take damage from eating too much, eating leftovers will always be safe. Even if the calorie amount in the leftovers is greater than the remaining capacity of the player, the player's calories will be safely maxed out without going over. The only trade off being any extra calories from leftovers not able to be eaten will be lost.
+
+When the player clears an encounter, all leftovers drops on the map will automatically be collected.

@@ -1,0 +1,1 @@
+A unique spell exclusive to the Maid.

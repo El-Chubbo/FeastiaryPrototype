@@ -1,0 +1,3 @@
+Feastiary is a turn-based tactical roguelike where the player navigates through random [[Zones]] with varying food monster and boss encounters. Along the way the player will gain [[Calories]] through eating monsters and other means to cast spells and gradually gain [[FAT]]. FAT operates as an EXP system that increases the player's power over time.
+
+As the player clears encounters, they will gain access to new abilities through weapons, perks, and most importantly new spells.

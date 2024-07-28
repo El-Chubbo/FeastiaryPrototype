@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "728e8c1e7bf7a7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee8924ff5f0759d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97fad253717619e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Profiles/Cirana.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d8b6a4db56573bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc5ee937d4a8d54b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ff52302837c38c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8949a8402582bcf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fd1b07c16aa39ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "bcbcae02ce1c5f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d58da2e99e6a25d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8461fbc194dc8454",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character Profiles/Cirana.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "675fd14b12c1b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Character Profiles/Cirana.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84277a2c1e1974c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5575d8c69db22416",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character Profiles/Cirana.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "97fad253717619e8",
+  "lastOpenFiles": [
+    "Character Profiles/The Maid - Extra Character.md",
+    "Character Profiles/The Slime Girl - Extra Character.md",
+    "Character Profiles/Emilia von Schleuse - Guest Character.md",
+    "Character Profiles/Goji Raijin - Guest Character.md",
+    "Gameplay Mechanics/Spells/Plate Throw.md",
+    "Gameplay Mechanics/Character Abilities/Plate Stacking.md",
+    "Misc/Foodie.md",
+    "Misc/Calorie Magic.md",
+    "Misc/Corruption.md",
+    "Gameplay Mechanics/Expeditions.md",
+    "Expedition.md",
+    "Misc/The Feastiary Grimoire.md",
+    "Misc/The World.md",
+    "Gameplay Mechanics/Weapons/Broadsword.md",
+    "Gameplay Mechanics/Weapons/Whip.md",
+    "Gameplay Mechanics/Weapons/Staff.md",
+    "Gameplay Mechanics/Weapons/Dagger.md",
+    "Gameplay Mechanics/Weapons/Gun.md",
+    "Gameplay Mechanics/Enemies/Mechanical Monsters.md",
+    "Character Profiles/Chubbo.md",
+    "Character Profiles/Cirana.md",
+    "Welcome.md",
+    "Gameplay Mechanics/Character Abilities/Spell Cards.md",
+    "Gameplay Mechanics/Spells/Elemental Magic.md",
+    "Gameplay Mechanics/Enemies/Rivals.md",
+    "Gameplay Mechanics/Enemies/Mythical Monsters.md",
+    "Gameplay Mechanics/Enemies",
+    "Gameplay Mechanics/Character Abilities",
+    "Gameplay Mechanics/Rounds",
+    "Gameplay Mechanics/Weapons",
+    "Gameplay Mechanics/Movement",
+    "Gameplay Mechanics/Spells",
+    "Misc",
+    "Gameplay Mechanics/Stats",
+    "Gameplay Mechanics",
+    "Untitled.canvas",
+    "Character Profiles"
+  ]
+}

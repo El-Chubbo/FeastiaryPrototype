@@ -1,0 +1,3 @@
+Rounds refer to every phase where an allied or enemy unit takes an action. For example, a player turn, an enemy turn, followed by another player turn would be three rounds. This distinction is important as some actions may update when the same unit has its turn again while others update per round, regardless of whose turn it is.
+
+Each round the game determines whose turn it is depending on the unit's [Speed] stat. This is calculated multiple rounds in advance so the player is able to see what the turn order is. If an event occurs that influences unit speeds in any way, the current turn order is thrown out and recalculated entirely.

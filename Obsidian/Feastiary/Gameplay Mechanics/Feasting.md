@@ -1,0 +1,3 @@
+The universal player action to attempt eat a monster. Feasting on a monster will grant the player extra [[Calories]] to use, with a bonus amount granted if it's the final blow. Generally, the more health a monster has remaining the more calories it will yield. Dealing a final blow with feasting is considered Consuming, which triggers any bonus effects that are conditional to consuming a monster.
+
+Some monsters are immune, resistant, or extra vulnerable to feasting. Robotic, armored, hardened, or otherwise non-edible features to monsters will reduce feasting's effectiveness. Boss monsters have to be defeated through other offensive means before being vulnerable to consuming.

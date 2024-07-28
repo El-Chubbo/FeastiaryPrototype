@@ -1,0 +1,1 @@
+Elemental spells are the primary means of offense that can be used by both the player and enemies.

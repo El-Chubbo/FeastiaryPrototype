@@ -1,0 +1,1 @@
+The maid's unique ability. As she gains calories, she conjures a growing stack of plates in her hand. As long as she does not receive damage, the maid will continue stacking plates until she casts her unique spell, [[Plate Throw]], in which she will throw all plates at once in a cardinal direction, dealing massive damage the more plates there are.
